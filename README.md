@@ -4,6 +4,7 @@
 <br/>- 🌱 I’m currently learning ...
 <br/>- 💞️ I’m looking to collaborate on ...
 <br/>- 📫 How to reach me <a href="mailto:mr.ahmed.nassif@gmail.com">Mr.Ahmed.Nassif@gmail.com</a>
+<br/>- 💻 My blog <a href="https://cyber-wise.blogspot.com/">cyber-wise.blogspot.com/</a>
 
 <!---
 ahmed-alnassif/ahmed-alnassif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

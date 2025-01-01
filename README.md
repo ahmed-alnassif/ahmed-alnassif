@@ -19,8 +19,7 @@
 - 🛠️ Custom scripts for web functionality and exploitation.  
 
 ### 🐧 **GNU/Linux Expert**  
-- Proficient in **Ubuntu**, **Kali Linux**, and other distributions.  
-- 🛡️ Advanced knowledge of **networking**, **system administration**, and **Linux-based development**.  
+- Proficient in **Arch Linux**, **Kali Linux**, and other distributions.  
 
 ### 🔐 **Cybersecurity**  
 - **Pentesting** (Web, Networks, and Systems)  

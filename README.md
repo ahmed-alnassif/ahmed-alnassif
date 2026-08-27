@@ -21,6 +21,13 @@
 
 **Professional security researcher since 2019** specializing in advanced exploitation and systems architecture. I operate across the entire security spectrum - from red team operations to building defensive tools and contributing to open source. My work bridges cutting-edge security research with practical engineering solutions.
 
+## ☕ Support My Work
+
+If my open source projects or contributions have been useful to you, donations are appreciated:
+
+**USDT (TRC20):** `TCyghELuquAtoUFdY65iuJSMqJXbYhWidA`
+
+
 <div align="center">
 
 **"Security isn't about finding vulnerabilities - it's about understanding systems deeply enough to break them methodically"**

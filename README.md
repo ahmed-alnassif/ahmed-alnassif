@@ -25,7 +25,11 @@
 
 If my open source projects or contributions have been useful to you, donations are appreciated:
 
-**USDT (TRC20):** `TCyghELuquAtoUFdY65iuJSMqJXbYhWidA`
+**Tron (TRC20):** `TK7s2HGGWoLuefoznbVMZdiCpEwSTvZ1CV`
+
+**Bitcoin (BTC):** `bc1qstka58vn66qutzhgaalxfm7jn4d7xmgkze26sk`
+
+**Ethereum (ERC20):** `0xa13F8baaa24b563896a8ddAA3089317d43344C55`
 
 
 <div align="center">

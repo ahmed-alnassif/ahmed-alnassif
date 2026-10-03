@@ -31,6 +31,8 @@ If my open source projects or contributions have been useful to you, donations a
 
 **Ethereum (ERC20):** `0xa13F8baaa24b563896a8ddAA3089317d43344C55`
 
+**ShamCash:** `a7da9b01b8faf8e3b3839f1b9f2b8d04`
+
 
 <div align="center">
 
